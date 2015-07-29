@@ -1,0 +1,41 @@
+{
+  "name": "eslint-config-loansolutions",
+  "version": "1.0.0",
+  "description": "A set of eslint configurations for loansolutions.ph",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loansolutionsph/eslint-config-loansolutions.git"
+  },
+  "keywords": [
+    "code",
+    "checker",
+    "code",
+    "linter",
+    "code",
+    "standards",
+    "code",
+    "style",
+    "eslint",
+    "config",
+    "eslint",
+    "eslintconfig",
+    "lint",
+    "style",
+    "checker",
+    "style",
+    "linter"
+  ],
+  "author": "loansolutions.ph",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loansolutionsph/eslint-config-loansolutions/issues"
+  },
+  "homepage": "https://github.com/loansolutionsph/eslint-config-loansolutions#readme",
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
+}
