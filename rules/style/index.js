@@ -75,7 +75,7 @@ module.exports = {
     // enforce padding within blocks
     'padded-blocks': [2, 'never'],
     // require quotes around object literal property names
-    'quote-props': 0,
+    'quote-props': [2, "consistent-as-needed", { "keywords": true }],
     // specify whether double or single quotes should be used
     'quotes': [2, 'single', 'avoid-escape'],
     // enforce spacing before and after semicolons
